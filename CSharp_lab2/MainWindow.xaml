@@ -1,0 +1,35 @@
+﻿<Window x:Class="PT_lab8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PT_lab8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000">
+    <Grid>
+
+        <Grid Width="450" HorizontalAlignment="Left">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="61*"/>
+                <ColumnDefinition Width="389*"/>
+            </Grid.ColumnDefinitions>
+            <ToolBar VerticalAlignment="Top" HorizontalAlignment="Left" Height="28" Width="80">
+                <Menu HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <MenuItem Header="_File">
+                        <MenuItem Header="_Open" Click="OpenClick"/>
+                        <MenuItem Header="_Exit" Click="ExitClick"/>
+                    </MenuItem>
+                </Menu>
+            </ToolBar>
+            <TreeView x:Name="TreeView1" Height="508" VerticalAlignment="Center" HorizontalAlignment="Left" Width="450" Grid.ColumnSpan="2" Padding="1,1,1,1"/>
+            <StatusBar Height="25" VerticalAlignment="Bottom" Grid.ColumnSpan="2">
+                <TextBlock x:Name="TextBlock2" HorizontalAlignment="Left"></TextBlock>
+            </StatusBar>
+        </Grid>
+        <Grid Width="545" HorizontalAlignment="Right">
+            <ScrollViewer>
+                <TextBlock x:Name="TextBlock1" TextWrapping="Wrap" Width="510" HorizontalAlignment="Right" TextAlignment="Left"></TextBlock>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Window>

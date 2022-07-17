@@ -1,0 +1,15 @@
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\bin\Debug\net6.0\CSharp_lab1.exe
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\bin\Debug\net6.0\CSharp_lab1.deps.json
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\bin\Debug\net6.0\CSharp_lab1.runtimeconfig.json
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\bin\Debug\net6.0\CSharp_lab1.dll
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\bin\Debug\net6.0\CSharp_lab1.pdb
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.csproj.AssemblyReference.cache
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.AssemblyInfoInputs.cache
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.AssemblyInfo.cs
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.csproj.CoreCompileInputs.cache
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.dll
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\refint\CSharp_lab1.dll
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.pdb
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\CSharp_lab1.genruntimeconfig.cache
+D:\RiderProjects\C#_labs\CSharp_lab1\CSharp_lab1\obj\Debug\net6.0\ref\CSharp_lab1.dll

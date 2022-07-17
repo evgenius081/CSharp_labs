@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJx6JyJl4Q15F/IzRGZughHHOsBSMGTzZjwmjzfU4ko098sTH1Ib74JDeNItN8Ws/JgcUARfyBr59LEPhIC+TQ==",
+  "success": true,
+  "projectFilePath": "D:\\RiderProjects\\C#_labs\\CSharp_lab3\\CSharp_lab3\\CSharp_lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.7.0.0-preview.4.22229.2.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.4.22229.2.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.4.22229.2.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.caching.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.4.22229.4\\microsoft.extensions.caching.memory.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.4.22229.4\\microsoft.extensions.dependencyinjection.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.4.22229.4\\microsoft.extensions.logging.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.4.22229.4\\microsoft.extensions.logging.abstractions.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.4.22229.4\\microsoft.extensions.options.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.4.22229.4\\microsoft.extensions.primitives.7.0.0-preview.4.22229.4.nupkg.sha512",
+    "C:\\Users\\gulev\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10.2.csproj.AssemblyReference.cache
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10.2.csproj.SuggestedBindingRedirects.cache
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\App.g.cs
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10._2_MarkupCompile.cache
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\bin\Debug\PT_lab10._2.exe.config
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\bin\Debug\PT_lab10._2.exe
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\bin\Debug\PT_lab10._2.pdb
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\MainWindow.g.cs
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10._2_MarkupCompile.lref
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\MainWindow.baml
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10._2.g.resources
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10._2.Properties.Resources.resources
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10.2.csproj.GenerateResource.cache
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10.2.csproj.CoreCompileInputs.cache
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10._2.exe
+D:\RiderProjects\PT_lab10.2\PT_lab10.2\obj\Debug\PT_lab10._2.pdb

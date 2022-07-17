@@ -1,0 +1,29 @@
+﻿<Window x:Class="PT_lab8.FolderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PT_lab8"
+        mc:Ignorable="d"
+        Title="FolderWindow" Height="320" Width="300">
+    <Grid >
+        <StackPanel Width="280" Margin="0,20,0,0" VerticalAlignment="Top" Orientation="Horizontal">
+            <Label VerticalAlignment="Center">Name:</Label>
+            <TextBox Width="234" Height="20" Name="TextBox1"/>
+        </StackPanel>
+        <StackPanel Width="180" Margin="0,70,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Orientation="Horizontal">
+            <RadioButton GroupName="type" IsChecked="True" Name="Folder1">Folder</RadioButton>
+            <RadioButton GroupName="type" Name="File1">File</RadioButton>
+        </StackPanel>
+        <StackPanel Width="180" VerticalAlignment="Center" Grid.RowSpan="4" Grid.IsSharedSizeScope="True" HorizontalAlignment="Center">
+            <CheckBox Name="r1" VerticalAlignment="Top" HorizontalAlignment="Left" Grid.IsSharedSizeScope="True">ReadOnly</CheckBox>
+            <CheckBox Name="a1" Grid.Row="2">Archive</CheckBox>
+            <CheckBox Name="s1" Grid.Row="3" RenderTransformOrigin="0.483,2.001" VerticalAlignment="Bottom" HorizontalAlignment="Left">System</CheckBox>
+            <CheckBox Name="h1" Grid.Row="4">Hidden</CheckBox>
+        </StackPanel>
+        <Grid Width="180" Height="30" VerticalAlignment="Bottom" Margin="0,0,0,30">
+            <Button Width="72" HorizontalAlignment="Left" Click="OkClick">OK</Button>
+            <Button Width="72" HorizontalAlignment="Right" Click="CancelClick">Cancel</Button>
+        </Grid>
+    </Grid>
+</Window>

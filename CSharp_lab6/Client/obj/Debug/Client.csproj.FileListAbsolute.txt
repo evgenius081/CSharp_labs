@@ -1,0 +1,16 @@
+D:\RiderProjects\PT_lab12\Client\bin\Debug\Client.exe.config
+D:\RiderProjects\PT_lab12\Client\bin\Debug\Client.exe
+D:\RiderProjects\PT_lab12\Client\bin\Debug\Client.pdb
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\RiderProjects\PT_lab12\Client\obj\Debug\MainWindow.g.cs
+D:\RiderProjects\PT_lab12\Client\obj\Debug\App.g.cs
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client_MarkupCompile.cache
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client_MarkupCompile.lref
+D:\RiderProjects\PT_lab12\Client\obj\Debug\MainWindow.baml
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client.g.resources
+D:\RiderProjects\PT_lab12\Client\obj\Debug\PT_lab12.Properties.Resources.resources
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client.exe
+D:\RiderProjects\PT_lab12\Client\obj\Debug\Client.pdb

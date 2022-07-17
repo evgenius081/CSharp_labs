@@ -1,0 +1,7 @@
+D:\RiderProjects\PT_lab12\Server\bin\Debug\Server.exe
+D:\RiderProjects\PT_lab12\Server\bin\Debug\Server.pdb
+D:\RiderProjects\PT_lab12\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\RiderProjects\PT_lab12\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\RiderProjects\PT_lab12\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\RiderProjects\PT_lab12\Server\obj\Debug\Server.exe
+D:\RiderProjects\PT_lab12\Server\obj\Debug\Server.pdb
